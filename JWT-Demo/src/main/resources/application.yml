@@ -1,0 +1,3 @@
+jwt:
+  url:
+      http://localhost:8080/decodedCanData.json
